@@ -6,6 +6,15 @@ nbdev_cardtest
 This file will become your README and also the index of your
 documentation.
 
+Now you’re ready to create your documentation home page and README.md
+file; these are both generated automatically from index.ipynb. Open the
+Jupyter Notebook home page, then click on index.ipynb to open it.
+
+We recommend including a longer description about what your package
+does, how to install it, and how to use it (with a few examples which
+import and use your package). Remember, examples can be code cells with
+real outputs rather than plain markdown text.
+
 ## Install
 
 ``` sh
