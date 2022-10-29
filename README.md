@@ -23,10 +23,21 @@ pip install nbdev_cardtest
 
 ## How to use
 
-Fill me in please! Don’t forget code examples:
+This library provides a
+[`Card`](https://adamcc.github.io/nbdev_cardtest/card.html#card) class
+you can use to create display and compare playing cards
 
 ``` python
-1+1
+# c = Card(1,3)
+# c
 ```
 
-    2
+``` python
+# suits
+```
+
+``` python
+# ranks
+```
+
+    NameError: name 'ranks' is not defined
