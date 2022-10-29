@@ -28,16 +28,14 @@ This library provides a
 you can use to create display and compare playing cards
 
 ``` python
-# c = Card(1,3)
-# c
+c = Card(1,3)
+c
 ```
 
 ``` python
-# suits
+suits
 ```
 
 ``` python
-# ranks
+ranks
 ```
-
-    NameError: name 'ranks' is not defined
