@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://adamcc.github.io',
                 'git_url': 'https://github.com/adamcc/nbdev_cardtest',
                 'lib_path': 'nbdev_cardtest'},
-  'syms': {'nbdev_cardtest.core': {'nbdev_cardtest.core.foo': ('core.html#foo', 'nbdev_cardtest/core.py')}}}
+  'syms': { 'nbdev_cardtest.card': {'nbdev_cardtest.card.say_hello': ('card.html#say_hello', 'nbdev_cardtest/card.py')},
+            'nbdev_cardtest.core': {'nbdev_cardtest.core.foo': ('card.html#foo', 'nbdev_cardtest/core.py')}}}
