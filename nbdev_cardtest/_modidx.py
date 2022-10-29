@@ -11,4 +11,12 @@ d = { 'settings': { 'branch': 'main',
                                      'nbdev_cardtest.card.Card.__init__': ('card.html#card.__init__', 'nbdev_cardtest/card.py'),
                                      'nbdev_cardtest.card.Card.__lt__': ('card.html#card.__lt__', 'nbdev_cardtest/card.py'),
                                      'nbdev_cardtest.card.Card.__str__': ('card.html#card.__str__', 'nbdev_cardtest/card.py')},
-            'nbdev_cardtest.core': {'nbdev_cardtest.core.foo': ('card.html#foo', 'nbdev_cardtest/core.py')}}}
+            'nbdev_cardtest.core': {'nbdev_cardtest.core.foo': ('card.html#foo', 'nbdev_cardtest/core.py')},
+            'nbdev_cardtest.deck': { 'nbdev_cardtest.deck.Deck': ('deck.html#deck', 'nbdev_cardtest/deck.py'),
+                                     'nbdev_cardtest.deck.Deck.__contains__': ('deck.html#deck.__contains__', 'nbdev_cardtest/deck.py'),
+                                     'nbdev_cardtest.deck.Deck.__init__': ('deck.html#deck.__init__', 'nbdev_cardtest/deck.py'),
+                                     'nbdev_cardtest.deck.Deck.__len__': ('deck.html#deck.__len__', 'nbdev_cardtest/deck.py'),
+                                     'nbdev_cardtest.deck.Deck.__str__': ('deck.html#deck.__str__', 'nbdev_cardtest/deck.py'),
+                                     'nbdev_cardtest.deck.Deck.pop': ('deck.html#deck.pop', 'nbdev_cardtest/deck.py'),
+                                     'nbdev_cardtest.deck.Deck.remove': ('deck.html#deck.remove', 'nbdev_cardtest/deck.py'),
+                                     'nbdev_cardtest.deck.Deck.shuffle': ('deck.html#deck.shuffle', 'nbdev_cardtest/deck.py')}}}
