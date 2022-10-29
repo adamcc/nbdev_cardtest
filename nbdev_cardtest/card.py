@@ -12,3 +12,4 @@ class Card:
         self.suit,self.rank = suit,rank
     def __str__(self): return f"{ranks[self.rank]}{suits[self.suit]}"
     __repr__ = __str__
+    
